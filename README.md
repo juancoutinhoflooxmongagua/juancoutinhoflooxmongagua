@@ -14,4 +14,3 @@
 
 ---
 
-🌟 **Sinta-se à vontade para explorar e contribuir!**
