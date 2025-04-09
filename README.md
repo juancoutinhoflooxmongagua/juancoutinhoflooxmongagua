@@ -1,3 +1,5 @@
+## 📊 GitHub Insights
+
 <div align="center">
 
 <!-- Stats principais lado a lado -->
