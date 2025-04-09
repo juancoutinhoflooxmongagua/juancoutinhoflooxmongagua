@@ -23,17 +23,6 @@
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 </div>
 
-### 📈 Projetos em Destaque
-<div align="center">
-  [![Projeto 1](https://img.shields.io/badge/Projeto%201-%E2%9C%94%20Live-00C7B7?style=for-the-badge)](https://github.com/juancoutinhoflooxmongagua/projeto-1)
-  [![Projeto 2](https://img.shields.io/badge/Projeto%202-%E2%9C%94%20Live-00C7B7?style=for-the-badge)](https://github.com/juancoutinhoflooxmongagua/projeto-2)
-</div>
-
-### 📬 **Contato**
-- [Email](mailto:seu-email@exemplo.com)
-- [LinkedIn](https://www.linkedin.com/in/seu-linkedin/)
-- [Website](https://seu-site.com)
-
 ---
 
 ### 🔧 GitHub Stats
@@ -51,4 +40,3 @@
 </div>
 
 ---
-
