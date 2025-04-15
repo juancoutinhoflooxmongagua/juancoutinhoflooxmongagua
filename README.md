@@ -14,7 +14,4 @@
   </tr>
 </table>
 
-<!-- Gráfico de atividade -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=juancoutinhoflooxmongagua&theme=dracula&hide_title=true&hide_border=true" />
-
 </div>
